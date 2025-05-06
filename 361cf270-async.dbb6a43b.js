@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self)["makoChunk_bpims-geip-integration"]=("undefined"!=typeof globalThis?globalThis:self)["makoChunk_bpims-geip-integration"]||[]).push([["361cf270"],{"361cf270":function(e,t,n){"use strict";n.d(t,"__esModule",{value:!0}),n.d(t,"default",{enumerable:!0,get:function(){return l;}});var i=n("a60a6dbd");n("8016193e");var u=n("8e2a37e2");function l(){let e=(0,u.useOutletContext)();return(0,i.jsx)(u.Outlet,{context:e});}}}]);
+//# sourceMappingURL=361cf270-async.dbb6a43b.js.map
